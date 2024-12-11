@@ -862,7 +862,7 @@ body {
   }
 }
 .text_tg {
-  font-size: 15px;
+  font-size: 17px;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -870,4 +870,6 @@ body {
 .nameD {
   color: #000;
   text-decoration: none;
+
+  color: inherit;
 }
